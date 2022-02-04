@@ -1,37 +1,20 @@
 ## Bienvenue sur ce répertoire R209
 
-You can use the [editor on GitHub](https://github.com/Sxndxr/UPEC_R209/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+J'ai codé ce site simple dans le cadre de mes études à l'Université Paris-Est Créteil en première année de BUT Réseaux et Télécommunications.
+Nous avions la mission de coder un site sur un sujet au choix en partant de zéro et sans framework à partir de ce [Cahier des Charges](https://eprel.u-pec.fr/pluginfile.php/209526/mod_resource/content/1/Initiation_Web__HTML-CSS__Projet.pdf).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Mon sujet
 
 ```markdown
-Syntax highlighted code block
+Dans le cadre de ce projet que j'ai réalisé en 4h, j'ai choisi comme sujet l'Intelligence Atificielle qui est un sujet passionnant pour moi.
+J'ai également lié ma page à des sites du Gouvernement Français en rapport avec l'Intelligence Artificielle comme:
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+1. [Le site du gouvernement Français dedié à l'étude de l'IA](intelligence-artificielle.gouv.fr).
+2. [Le site du gouvernement Français consacré aux entreprises](entreprises.gouv.fr).
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Me contacter
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sxndxr/UPEC_R209/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Je serai heureux de discuter avec vous en cas de souci ou pour autre chose : luckennlandou1256[at]gmail[dot com]
